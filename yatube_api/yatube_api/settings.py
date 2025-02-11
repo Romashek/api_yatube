@@ -109,6 +109,8 @@ USE_L10N = True
 
 USE_TZ = True
 
+MAX_LENGTH_GROUP_TITLE = 200
+
 
 # Static files (CSS, JavaScript, Images)
 
